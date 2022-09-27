@@ -1,0 +1,85 @@
+Dx,SNOMED CT Code,Abbreviation,CPSC,CPSC-Extra,StPetersburg,PTB,PTB-XL,Georgia,Total
+2nd degree av block,195042002,IIAVB,0,21,0,0,14,23,58
+abnormal QRS,164951009,abQRS,0,0,0,0,3389,0,3389
+accelerated junctional rhythm,426664006,AJR,0,0,0,0,0,19,19
+acute myocardial infarction,57054005,AMI,0,0,6,0,0,0,6
+acute myocardial ischemia,413444003,AMIs,0,1,0,0,0,1,2
+anterior ischemia,426434006,AnMIs,0,0,0,0,44,281,325
+anterior myocardial infarction,54329005,AnMI,0,62,0,0,354,0,416
+atrial bigeminy,251173003,AB,0,0,3,0,0,0,3
+atrial fibrillation and flutter,195080001,AFAFL,0,39,0,0,0,2,41
+atrial hypertrophy,195126007,AH,0,2,0,0,0,60,62
+atrial pacing pattern,251268003,AP,0,0,0,0,0,52,52
+atrial tachycardia,713422000,ATach,0,15,0,0,0,28,43
+atrioventricular junctional rhythm,29320008,AVJR,0,6,0,0,0,0,6
+av block,233917008,AVB,0,5,0,0,0,74,79
+blocked premature atrial contraction,251170000,BPAC,0,2,3,0,0,0,5
+brady tachy syndrome,74615001,BTS,0,1,1,0,0,0,2
+bundle branch block,6374002,BBB,0,0,1,20,0,116,137
+cardiac dysrhythmia,698247007,CD,0,0,0,16,0,0,16
+chronic atrial fibrillation,426749004,CAF,0,1,0,0,0,0,1
+chronic myocardial ischemia,413844008,CMI,0,161,0,0,0,0,161
+complete heart block,27885002,CHB,0,27,0,0,16,8,51
+congenital incomplete atrioventricular heart block,204384007,CIAHB,0,0,0,2,0,0,2
+coronary heart disease,53741008,CHD,0,0,16,21,0,0,37
+decreased qt interval,77867006,SQT,0,1,0,0,0,0,1
+diffuse intraventricular block,82226007,DIB,0,1,0,0,0,0,1
+early repolarization,428417006,ERe,0,0,0,0,0,140,140
+fusion beats,13640000,FB,0,0,7,0,0,0,7
+heart failure,84114007,HF,0,0,0,7,0,0,7
+heart valve disorder,368009,HVD,0,0,0,6,0,0,6
+high t-voltage,251259000,HTV,0,1,0,0,0,0,1
+idioventricular rhythm,49260003,IR,0,0,2,0,0,0,2
+incomplete left bundle branch block,251120003,ILBBB,0,42,0,0,77,86,205
+indeterminate cardiac axis,251200008,ICA,0,0,0,0,156,0,156
+inferior ischaemia,425419005,IIs,0,0,0,0,219,451,670
+inferior ST segment depression,704997005,ISTD,0,1,0,0,0,0,1
+junctional escape,426995002,JE,0,4,0,0,0,5,9
+junctional premature complex,251164006,JPC,0,2,0,0,0,0,2
+junctional tachycardia,426648003,JTach,0,2,0,0,0,4,6
+lateral ischaemia,425623009,LIs,0,0,0,0,142,903,1045
+left atrial abnormality,253352002,LAA,0,0,0,0,0,72,72
+left atrial enlargement,67741000119109,LAE,0,1,0,0,427,870,1298
+left atrial hypertrophy,446813000,LAH,0,40,0,0,0,0,40
+left posterior fascicular block,445211001,LPFB,0,0,0,0,177,25,202
+left ventricular hypertrophy,164873001,LVH,0,158,10,0,2359,1232,3759
+left ventricular strain,370365005,LVS,0,1,0,0,0,0,1
+mobitz type i wenckebach atrioventricular block,54016002,MoI,0,0,3,0,0,0,3
+myocardial infarction,164865005,MI,0,376,9,368,5261,7,6021
+myocardial ischemia,164861001,MIs,0,384,0,0,2175,0,2559
+nonspecific st t abnormality,428750005,NSSTTA,0,1290,0,0,381,1883,3554
+old myocardial infarction,164867002,OldMI,0,1168,0,0,0,0,1168
+paired ventricular premature complexes,251182009,VPVC,0,0,23,0,0,0,23
+paroxysmal atrial fibrillation,282825002,PAF,0,0,1,1,0,0,2
+paroxysmal supraventricular tachycardia,67198005,PSVT,0,0,3,0,24,0,27
+paroxysmal ventricular tachycardia,425856008,PVT,0,0,15,0,0,0,15
+r wave abnormal,164921003,RAb,0,1,0,0,0,10,11
+rapid atrial fibrillation,314208002,RAF,0,0,0,2,0,0,2
+right atrial abnormality,253339007,RAAb,0,0,0,0,0,14,14
+right atrial hypertrophy,446358003,RAH,0,18,0,0,99,0,117
+right ventricular hypertrophy,89792004,RVH,0,20,0,0,126,86,232
+s t changes,55930002,STC,0,1,0,0,770,6,777
+shortened pr interval,49578007,SPRI,0,3,0,0,0,2,5
+sinoatrial block,65778007,SAB,0,9,0,0,0,0,9
+sinus node dysfunction,60423000,SND,0,0,2,0,0,0,2
+st depression,429622005,STD,869,57,4,0,1009,38,1977
+st elevation,164931005,STE,220,66,4,0,28,134,452
+st interval abnormal,164930006,STIAb,0,481,2,0,0,992,1475
+supraventricular bigeminy,251168009,SVB,0,0,1,0,0,0,1
+supraventricular tachycardia,426761007,SVT,0,3,1,0,27,32,63
+suspect arm ecg leads reversed,251139008,ALR,0,0,0,0,0,12,12
+transient ischemic attack,266257000,TIA,0,0,7,0,0,0,7
+u wave abnormal,164937009,UAb,0,1,0,0,0,0,1
+ventricular bigeminy,11157007,VBig,0,5,9,0,82,2,98
+ventricular ectopics,164884008,VEB,700,0,49,0,1154,41,1944
+ventricular escape beat,75532003,VEsB,0,3,1,0,0,0,4
+ventricular escape rhythm,81898007,VEsR,0,1,0,0,0,1,2
+ventricular fibrillation,164896001,VF,0,10,0,25,0,3,38
+ventricular flutter,111288001,VFL,0,1,0,0,0,0,1
+ventricular hypertrophy,266249003,VH,0,5,0,13,30,71,119
+ventricular pacing pattern,251266004,VPP,0,0,0,0,0,46,46
+ventricular pre excitation,195060002,VPEx,0,6,0,0,0,2,8
+ventricular tachycardia,164895002,VTach,0,1,1,10,0,0,12
+ventricular trigeminy,251180001,VTrig,0,4,4,0,20,1,29
+wandering atrial pacemaker,195101003,WAP,0,0,0,0,0,7,7
+wolff parkinson white pattern,74390002,WPW,0,0,4,2,80,2,88

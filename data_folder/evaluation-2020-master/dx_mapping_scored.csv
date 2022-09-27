@@ -1,0 +1,28 @@
+Dx,SNOMED CT Code,Abbreviation,CPSC,CPSC-Extra,StPetersburg,PTB,PTB-XL,Georgia,Total,Notes
+1st degree av block,270492004,IAVB,722,106,0,0,797,769,2394,
+atrial fibrillation,164889003,AF,1221,153,2,15,1514,570,3475,
+atrial flutter,164890007,AFL,0,54,0,1,73,186,314,
+bradycardia,426627000,Brady,0,271,11,0,0,6,288,
+complete right bundle branch block,713427006,CRBBB,0,113,0,0,542,28,683,We score 713427006 and 59118001 as the same diagnosis.
+incomplete right bundle branch block,713426002,IRBBB,0,86,0,0,1118,407,1611,
+left anterior fascicular block,445118002,LAnFB,0,0,0,0,1626,180,1806,
+left axis deviation,39732003,LAD,0,0,0,0,5146,940,6086,
+left bundle branch block,164909002,LBBB,236,38,0,0,536,231,1041,
+low qrs voltages,251146004,LQRSV,0,0,0,0,182,374,556,
+nonspecific intraventricular conduction disorder,698252002,NSIVCB,0,4,1,0,789,203,997,
+pacing rhythm,10370003,PR,0,3,0,0,296,0,299,
+premature atrial contraction,284470004,PAC,616,73,3,0,398,639,1729,We score 284470004 and 63593006 as the same diagnosis.
+premature ventricular contractions,427172004,PVC,0,188,0,0,0,0,188,We score 427172004 and 17338001 as the same diagnosis.
+prolonged pr interval,164947007,LPR,0,0,0,0,340,0,340,
+prolonged qt interval,111975006,LQT,0,4,0,0,118,1391,1513,
+qwave abnormal,164917005,QAb,0,1,0,0,548,464,1013,
+right axis deviation,47665007,RAD,0,1,0,0,343,83,427,
+right bundle branch block,59118001,RBBB,1857,1,2,0,0,542,2402,We score 713427006 and 59118001 as the same diagnosis.
+sinus arrhythmia,427393009,SA,0,11,2,0,772,455,1240,
+sinus bradycardia,426177001,SB,0,45,0,0,637,1677,2359,
+sinus rhythm,426783006,NSR,918,4,0,80,18092,1752,20846,
+sinus tachycardia,427084000,STach,0,303,11,1,826,1261,2402,
+supraventricular premature beats,63593006,SVPB,0,53,4,0,157,1,215,We score 284470004 and 63593006 as the same diagnosis.
+t wave abnormal,164934002,TAb,0,22,0,0,2345,2306,4673,
+t wave inversion,59931005,TInv,0,5,1,0,294,812,1112,
+ventricular premature beats,17338001,VPB,0,8,0,0,0,357,365,We score 427172004 and 17338001 as the same diagnosis.

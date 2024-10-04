@@ -1,4 +1,5 @@
 Multimodality Multi-Lead ECG Arrhythmia Classification using Self-Supervised Learning
+
 Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926925
 
 1. Download datasets from the PhysioNet 2020 Competition. Put in the folder ./data_folder/datasets and extract all of them .
